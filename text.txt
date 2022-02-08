@@ -15,10 +15,7 @@
     </header>
 
     <main>
-      <div>
-        <h1>Contact-free</h1>
-        <p>on all deliveries across the UK.</p>
-      </div>
+
 
       <section>
         <h1>Delivery</h1>
