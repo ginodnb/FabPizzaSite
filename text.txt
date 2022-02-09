@@ -1,9 +1,6 @@
     <header>
-    <p>Due to adverse weather in some locations delivery may take longer than usual. Sorry for the incovenience and thank you for your patience.</p>
 
-    <a href="https://www.pizzahut.co.uk" target="_blank">
-								<img src="images/img_2.PNG" id="logoImage" />
-							</a>
+
 
               
           <ul>
