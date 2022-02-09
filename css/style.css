@@ -112,7 +112,7 @@ main .mobileview ul li a {
 	text-transform: capitalize;
 }
 
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
 
 	/* desktop state */
 	.mobileview {
